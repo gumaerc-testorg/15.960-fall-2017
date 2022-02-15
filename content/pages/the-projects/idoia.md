@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: The Projects
+parent_type: CourseSection
 parent_uid: 1d466add-2c73-0e38-9f76-81575115c5e7
 title: Public Tech Innovation with Real-world Implementation
 uid: ee8024da-2bfd-36f9-6ec8-9b9c0c308165

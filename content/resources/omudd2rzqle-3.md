@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/87c8627cf543f79e9682cddc8260cbac_omuDD2rZqlE.pdf
+file: /media/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/87c8627cf543f79e9682cddc8260cbac_omuDD2rZqlE.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 87c8627c-f543-f79e-9682-cddc8260cbac

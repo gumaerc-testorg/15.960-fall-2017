@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/358dfc05b7543314ec2b706d87108ba1_Sarah-Anjali.jpg
+file: /media/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/358dfc05b7543314ec2b706d87108ba1_Sarah-Anjali.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Sarah&Anjali.jpg
 uid: 358dfc05-b754-3314-ec2b-706d87108ba1

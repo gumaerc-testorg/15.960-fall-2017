@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Course Overview
 uid: 6f1265ce-52d4-c510-c760-cefd1310a99a
 ---

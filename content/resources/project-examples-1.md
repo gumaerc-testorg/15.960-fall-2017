@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/50ad44682ca06786daf5bf8e37b2dde5_project-examples.jpg
+file: /media/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/50ad44682ca06786daf5bf8e37b2dde5_project-examples.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: project-examples.jpg
 uid: 50ad4468-2ca0-6786-daf5-bf8e37b2dde5

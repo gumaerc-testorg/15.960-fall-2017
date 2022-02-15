@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: The Projects
+parent_type: CourseSection
 parent_uid: 1d466add-2c73-0e38-9f76-81575115c5e7
 title: Using Technology to Improve Small Farming in Brazil
 uid: 6e519cf4-8ff2-4e4d-3420-3a9f41ddec14
