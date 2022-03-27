@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 01ed4036-4971-1d69-1f8b-5f33e31948a5
 resourcetype: Image
 title: Sarah&Anjali.jpg
 uid: 358dfc05-b754-3314-ec2b-706d87108ba1

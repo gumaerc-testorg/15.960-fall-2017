@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: An Interview with Anjali Sastry on Facilitating a Customized Learning Experience
   for Sloan Fellows
 uid: 19a82e14-40e2-a175-916c-709d9e113de2
