@@ -1,41 +1,39 @@
 ---
 content_type: page
+description: In this section the instructor describes various aspects of how she mentored
+  students in 15.960.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 01ed4036-4971-1d69-1f8b-5f33e31948a5
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-In the following video and Chalk Radio podcast episode, Dr. Anjali Sastry describes various aspects of how she mentored students in _15.960 New Executive Thinking Social-Impact Technology Projects_.
+In the following video and Chalk Radio podcast episode, Dr. Anjali Sastry describes various aspects of how she mentored students in *15.960 New Executive Thinking Social-Impact Technology Projects*.
 
-[An Interview with Anjali Sastry on Facilitating a Customized Learning Experience for Sloan Fellows]({{< baseurl >}}/resources/an-interview-with-anjali-sastry)
+{{% resource_link 19a82e14-40e2-a175-916c-709d9e113de2 "An Interview with Anjali Sastry on Facilitating a Customized Learning Experience for Sloan Fellows" %}}
 
-### View by chapter
+**View by chapter**
 
-[![Two women sitting, facing each other, and talking.]({{< resource_file 358dfc05-b754-3314-ec2b-706d87108ba1 >}})]({{< baseurl >}}/resources/creating-a-set-of-projects)
-
-*   [Creating a set of projects that link technology and social impact]({{< baseurl >}}/resources/creating-a-set-of-projects)
-*   [Project examples]({{< baseurl >}}/resources/project-examples)
-*   [Behind-the-scenes logistics of supporting students’ work]({{< baseurl >}}/resources/behind-the-scenes-logistics-of-supporting-students2019-work)
-*   [Is this scalable?]({{< baseurl >}}/resources/is-this-scalable)
-*   [Measuring success: anchoring passion projects with academic rigor]({{< baseurl >}}/resources/measuring-success)
-*   [Insights into emerging ideas: how teaching this way benefits the instructor as researcher]({{< baseurl >}}/resources/insights-into-emerging-ideas)
-*   [Networking with a purpose]({{< baseurl >}}/resources/networking-with-a-purpose)
-*   [Iterating on a new learning experience: creating frameworks and opting in]({{< baseurl >}}/resources/iterating-on-a-new-learning-experience)
-*   [How far are you willing to go outside your area of expertise?]({{< baseurl >}}/resources/how-far-are-you-willing-to-go-outside-your-area-of-expertise)
-*   [Are you open to supporting a diversity of projects, or do you prefer clustered projects?]({{< baseurl >}}/resources/supporting-a-diversity-of-projects)
-*   [Words of advice for educators trying this, too]({{< baseurl >}}/resources/words-of-advice-for-educators-trying-this-too)
+- {{% resource_link 32769233-f292-8bf9-b170-2747acca58be "Creating a set of projects that link technology and social impact" %}}
+- {{% resource_link a2e8625b-b18a-58ed-cb14-33ab4dc977fe "Project examples" %}}
+- {{% resource_link c92ff9ca-f027-810d-ef24-149df6d8ef9e "Behind-the-scenes logistics of supporting students’ work" %}}
+- {{% resource_link 32191ee4-f4c0-53e8-22d4-9d17f294690f "Is this scalable?" %}}
+- {{% resource_link e4ab0a13-e8d5-b947-e4e4-a6518db5de90 "Measuring success: anchoring passion projects with academic rigor" %}}
+- {{% resource_link ab761f1c-5243-9b48-8eee-5a0e6764fb45 "Insights into emerging ideas: how teaching this way benefits the instructor as researcher" %}}
+- {{% resource_link ff4f7eaf-c009-6bca-addf-cfe1435b727c "Networking with a purpose" %}}
+- {{% resource_link 59e70fcf-b309-ccfa-a222-72d614b79550 "Iterating on a new learning experience: creating frameworks and opting in" %}}
+- {{% resource_link 69a87f2d-a396-9e77-92cf-90c5cfe7198e "How far are you willing to go outside your area of expertise?" %}}
+- {{% resource_link bf7d8f8b-ea65-f63a-11fc-a3bdc7a39d9e "Are you open to supporting a diversity of projects, or do you prefer clustered projects?" %}}
+- {{% resource_link 8d49135f-ac0d-d069-8d0c-6c99f0b1e851 "Words of advice for educators trying this, too" %}}
 
 {{< simplecast 152665b8-894b-4a14-abf5-e817a5e3bf5a >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -49,10 +47,11 @@ This course has no specific prerequisites, but permission of the instructor is r
 
 Every semester (by various instructors): topics vary from year to year.
 
-Student Information
--------------------
+## Student Information
 
-![About 19 students took this course when it was taught in Fall 2017.]({{< resource_file b6c3384e-7ac6-95fa-335c-b1e9e9c76c2b >}})
+### Enrollment
+
+19 students
 
 ### Breakdown by Year
 
@@ -64,14 +63,12 @@ Students typically had over a decade of experience in the field.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 15.960 is graded as (P/D/F).
 
-How Student Time Was Spent
---------------------------
+### How Student Time Was Spent
 
 The time students spent on their projects varied; all students had a weekly individual conference as well as group meetings with Dr. Sastry to discuss the progress of their projects. Many projects also involved field work.
