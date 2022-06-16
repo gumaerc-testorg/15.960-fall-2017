@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/7b558e8cc608899e98a57fca752cfcfb_iterating.jpg
+file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/7b558e8cc608899e98a57fca752cfcfb_iterating.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/f3280c6c158cbe3c92e97a155c3437ac_Ek90ivXyusk.pdf
+file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/f3280c6c158cbe3c92e97a155c3437ac_Ek90ivXyusk.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

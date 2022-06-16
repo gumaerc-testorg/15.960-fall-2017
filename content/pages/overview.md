@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Overview
@@ -28,7 +29,7 @@ Student Projects
 
 Each custom project was driven by the student’s own passion, exploring topics from specific applications of technology to complex challenges that affect communities and the physical environment. This flipped the usual set-up of action learning project classes by collaboratively developing the projects with each student or team. It also revealed how strongly driven the students are—their savviness in connecting classes, their own experience, new opportunities, and their access to the MIT ecosystem with the big questions that motivate them.
 
-Visit [the projects section]({{< baseurl >}}/pages/the-projects) for more information and the following project examples that include in-depth video interviews with Dr. Sastry's following three students:
+Visit {{% resource_link 1d466add-2c73-0e38-9f76-81575115c5e7 "the projects section" %}} for more information and the following project examples that include in-depth video interviews with Dr. Sastry's following three students:
 
 *   _Using Technology to Improve Small Farming in Brazil_: Aline Pezente, SFMBA '18
 *   _Innovations Across the Agriculture Value Chain—An Opportunity for Entrepreneurs_: Doreen Mashu, SFMBA '18

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Details about the student project and a video interview.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: The Projects
