@@ -42,8 +42,10 @@
   },
   "learning_resource_types": [
     "Other Video",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "a474e31e-d148-4228-a5f3-9b636ca12d57",
+  "site_uid": "1a1d84d3-45b4-4c27-ba0f-76dc05e7dbb4",
+  "short_id": "15.960-fall-2017",
   "title": "Course Metadata"
 }
