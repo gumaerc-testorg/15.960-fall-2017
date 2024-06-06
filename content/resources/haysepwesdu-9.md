@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/3eeff868e4ba68547ee1a18cd20aefd5_HaySEpWEsdU.pdf
+file_size: 35239
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
