@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/45cbdcd5ff1bb82a44159e2111574524_HaySEpWEsdU.pdf
+file: /ol-ocw-studio-app/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/45cbdcd5ff1bb82a44159e2111574524_HaySEpWEsdU.pdf
 file_size: 35239
 file_type: application/pdf
 learning_resource_types: []

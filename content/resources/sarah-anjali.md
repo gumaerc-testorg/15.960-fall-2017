@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/358dfc05b7543314ec2b706d87108ba1_Sarah-Anjali.jpg
+file: /ol-ocw-studio-app/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/358dfc05b7543314ec2b706d87108ba1_Sarah-Anjali.jpg
 file_size: 78074
 file_type: image/jpeg
 image_metadata:
