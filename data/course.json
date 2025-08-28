@@ -30,6 +30,8 @@
     "website": "15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018"
   },
   "course_title": "New Executive Thinking Social-Impact Technology Projects",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This customized independent study course puts [Sloan Fellows MBA](http://mitsloan.mit.edu/fellows/)\u00a0students into direct contact with innovators tackling global needs in education, healthcare, and energy/environment. Co-designed projects address low-income markets in the U.S. or globally, focusing on the application of new ideas and technology rooted in MIT innovations or the Boston ecosystem. Every project aims to develop better ways for the right innovations to reach scale, sustainability, and quality, thereby improving lives and uncovering opportunities in underserved markets.\n",
   "department_numbers": [
     "15"
@@ -43,9 +45,11 @@
   "learning_resource_types": [
     "Other Video",
     "Projects with Examples",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "1a1d84d3-45b4-4c27-ba0f-76dc05e7dbb4",
   "site_short_id": "15.960-fall-2017",
+  "site_url_path": "courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018",
   "title": "Course Metadata"
 }
