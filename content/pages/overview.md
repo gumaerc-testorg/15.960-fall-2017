@@ -15,7 +15,7 @@ Meeting times varied. In addition to working independently, students met with t
 Prerequisites
 -------------
 
-No prerequisites. Permission of the instructor is required for enrollment. This course was limited to {{% resource_link "344bafdb-df64-4c53-a7a5-caf510b073d9" "Sloan Fellows MBA" %}} students.
+No prerequisites. Permission of the instructor is required for enrollment. This course was limited to [Sloan Fellows MBA](http://mitsloan.mit.edu/fellows/) students.
 
 About the Course
 ----------------
